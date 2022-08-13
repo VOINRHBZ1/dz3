@@ -15,3 +15,4 @@ https://git-scm.com/book/ru/v2/%D0%9F%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%
 
 ![его свет с нами ](imperator.webp)
 на ветке 4 создаю конфликт
+тестовый вариант для комманды git push
